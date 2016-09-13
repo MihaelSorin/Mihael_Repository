@@ -19,6 +19,6 @@ public class Grade {
 	}
 	
 	public static void main(String args[]){
-		System.out.println(getLetterByMark(1100));
+		System.out.println(getLetterByMark(100));
 	}
 }
