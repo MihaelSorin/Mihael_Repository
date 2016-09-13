@@ -12,7 +12,7 @@ public class Grade {
 		else if(mark >= 60){
 			return 'B';
 			}
-		else if(mark >= 50){
+		else if(mark > 50){
 			return 'C';
 		}
 		else return 'Z';
