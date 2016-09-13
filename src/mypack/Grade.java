@@ -15,7 +15,7 @@ public class Grade {
 		else if(mark >= 50){
 			return 'C';
 		}
-		else return 'F';
+		else return 'Z';
 	}
 	
 	public static void main(String args[]){
